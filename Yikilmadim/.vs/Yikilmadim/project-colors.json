@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c74228ac-39f0-4b6b-8b54-9513e89d98d7": {
+      "ProjectGuid": "c74228ac-39f0-4b6b-8b54-9513e89d98d7",
+      "DisplayName": "Yikilmadim",
+      "ColorIndex": 0
+    },
+    "26a8c6e3-f54e-43c2-aba2-afed5ee8ff5c": {
+      "ProjectGuid": "26a8c6e3-f54e-43c2-aba2-afed5ee8ff5c",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 1
+    },
+    "f53ab5c5-af22-41f9-be1a-2a450cb13dfc": {
+      "ProjectGuid": "f53ab5c5-af22-41f9-be1a-2a450cb13dfc",
+      "DisplayName": "DataAccesLayer",
+      "ColorIndex": 2
+    },
+    "a51bf9ea-352f-4e4c-8e93-a966350e87b1": {
+      "ProjectGuid": "a51bf9ea-352f-4e4c-8e93-a966350e87b1",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 3
+    },
+    "fa1ad4fa-d28d-4875-a5d1-9e12a1f03c0f": {
+      "ProjectGuid": "fa1ad4fa-d28d-4875-a5d1-9e12a1f03c0f",
+      "DisplayName": "CoreLayer",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
