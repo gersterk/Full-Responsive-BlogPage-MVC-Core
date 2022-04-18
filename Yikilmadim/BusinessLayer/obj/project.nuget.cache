@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TEUf3CkY+trrtf6/kGoNRyWJZ+TaIoY8A7cqIHfhGqMtovAZY7zHkuqYbY/lf4YY21pJiKaK/TEpQ5F53wCDHw==",
+  "dgSpecHash": "NsPB1L2Q2lsfMi3Bs2gtzaXnn05RoN40DCr11rn9X6j3oyX6+WjXJhbEVMaq8ECQAPoNPnLkeBhZY0nO2faLyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Şoreş\\source\\repos\\Yikilmadim\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Şoreş\\Documents\\GitHub\\Full-Responsive-BlogPage-MVC-Core\\Yikilmadim\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Şoreş\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\Şoreş\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",

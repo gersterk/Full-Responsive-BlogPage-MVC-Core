@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zgbBY/rBlgengfc0MpR6wPaocFfnJ/Cur/xj3fI8xXKhsDvxlXwMsjI9ybktJaRe/tVpETwl9P2gObOJ67656w==",
+  "dgSpecHash": "PABSx/jVo9oUeqUBNyst4SuStbwLcF4HUxa/TV9VwfA1sDNd2NecT2ElObBLVCNoLi36d2G8O2qi6bqdBZY3MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Şoreş\\source\\repos\\Yikilmadim\\DataAccesLayer\\DataAccesLayer.csproj",
+  "projectFilePath": "C:\\Users\\Şoreş\\Documents\\GitHub\\Full-Responsive-BlogPage-MVC-Core\\Yikilmadim\\DataAccesLayer\\DataAccesLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Şoreş\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Şoreş\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

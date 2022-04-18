@@ -8,105 +8,113 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Yikilmadim
 build_property.RootNamespace = Yikilmadim
-build_property.ProjectDir = C:\Users\Şoreş\source\repos\Yikilmadim\Yikilmadim\
+build_property.ProjectDir = C:\Users\Şoreş\Documents\GitHub\Full-Responsive-BlogPage-MVC-Core\Yikilmadim\Yikilmadim\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Şoreş\source\repos\Yikilmadim\Yikilmadim
+build_property.MSBuildProjectDirectory = C:\Users\Şoreş\Documents\GitHub\Full-Responsive-BlogPage-MVC-Core\Yikilmadim\Yikilmadim
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Blog/BlogReadAll.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/About/SocialMediaAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcU29jaWFsTWVkaWFBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Blog/BlogReadAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nUmVhZEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Blog/Index.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Category/Index.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Comment/CommentListByBlog.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Comment/CommentListByBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDb21tZW50TGlzdEJ5QmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Comment/PartialAddComment.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Comment/PartialAddComment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxQYXJ0aWFsQWRkQ29tbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/ErrorPage/Error1.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/ErrorPage/Error1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Home/Index.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Home/Privacy.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Login/Index.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/NewsLetter/SubscribeMail.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/NewsLetter/SubscribeMail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0xldHRlclxTdWJzY3JpYmVNYWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Register/Index.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/Components/CategoryList/Default.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/Components/CategoryList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlMaXN0XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/Components/CommentListByBlog/Default.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/Components/CommentListByBlog/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tbWVudExpc3RCeUJsb2dcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/Components/CommentList/Default.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/Components/CommentList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tbWVudExpc3RcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/Components/WriterLastBlog/Default.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/Components/WriterLastBlog/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcV3JpdGVyTGFzdEJsb2dcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/Error.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/Partial1.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/Partial1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/Partial2.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/Partial2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/Partial3.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/Partial3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWwzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/UserLayout.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/UserLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFVzZXJMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/_ViewImports.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/_ViewStart.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Şoreş/source/repos/Yikilmadim/Yikilmadim/Views/Shared/_Layout.cshtml]
+[C:/Users/Şoreş/Documents/GitHub/Full-Responsive-BlogPage-MVC-Core/Yikilmadim/Yikilmadim/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-eysid49x5z

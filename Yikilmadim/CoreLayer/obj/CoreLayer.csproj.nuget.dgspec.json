@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Şoreş\\source\\repos\\Yikilmadim\\CoreLayer\\CoreLayer.csproj": {}
+    "C:\\Users\\Şoreş\\Documents\\GitHub\\Full-Responsive-BlogPage-MVC-Core\\Yikilmadim\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Şoreş\\source\\repos\\Yikilmadim\\CoreLayer\\CoreLayer.csproj": {
+    "C:\\Users\\Şoreş\\Documents\\GitHub\\Full-Responsive-BlogPage-MVC-Core\\Yikilmadim\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Şoreş\\source\\repos\\Yikilmadim\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Şoreş\\Documents\\GitHub\\Full-Responsive-BlogPage-MVC-Core\\Yikilmadim\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\Şoreş\\source\\repos\\Yikilmadim\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "C:\\Users\\Şoreş\\Documents\\GitHub\\Full-Responsive-BlogPage-MVC-Core\\Yikilmadim\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\Şoreş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Şoreş\\source\\repos\\Yikilmadim\\CoreLayer\\obj\\",
+        "outputPath": "C:\\Users\\Şoreş\\Documents\\GitHub\\Full-Responsive-BlogPage-MVC-Core\\Yikilmadim\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Şoreş\\AppData\\Roaming\\NuGet\\NuGet.Config",

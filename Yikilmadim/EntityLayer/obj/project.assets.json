@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Şoreş\\source\\repos\\Yikilmadim\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Şoreş\\Documents\\GitHub\\Full-Responsive-BlogPage-MVC-Core\\Yikilmadim\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\Şoreş\\source\\repos\\Yikilmadim\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\Şoreş\\Documents\\GitHub\\Full-Responsive-BlogPage-MVC-Core\\Yikilmadim\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Şoreş\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Şoreş\\source\\repos\\Yikilmadim\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\Şoreş\\Documents\\GitHub\\Full-Responsive-BlogPage-MVC-Core\\Yikilmadim\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Şoreş\\AppData\\Roaming\\NuGet\\NuGet.Config",
