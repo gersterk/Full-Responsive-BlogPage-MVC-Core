@@ -18,9 +18,12 @@ namespace Yikilmadim.Controllers
         public IActionResult Index(Contact p)
         {
             p.ContactDateTime =DateTime.Parse(DateTime.Now.ToShortDateString());
-            p.ContactStatus = true;
 
-            return View();
+            p.ContactStatus = true;
+            cm.ContactAdd(p);
+
+
+            return RedirectToAction("Index", "Blog");
         }
     }
 }
