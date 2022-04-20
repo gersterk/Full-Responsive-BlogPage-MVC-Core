@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
- void ConfigureServices(IServiceCollection services)
+void ConfigureServices(IServiceCollection services)
 {
     services.AddMvc(config =>
     {
@@ -18,6 +18,8 @@ builder.Services.AddControllersWithViews();
         config.Filters.Add(new AuthorizeFilter(policy));
 
     });
+
+    
 }
 
 var app = builder.Build();
