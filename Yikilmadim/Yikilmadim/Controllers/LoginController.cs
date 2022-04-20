@@ -7,8 +7,8 @@ namespace Yikilmadim.Controllers
 {
 	public class LoginController : Controller
 	{
-		//[AllowAnonymous]
-		public IActionResult Index()
+        [AllowAnonymous]
+        public IActionResult Index()
 		{
 			return View();
 		}
