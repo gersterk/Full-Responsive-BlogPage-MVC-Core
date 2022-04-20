@@ -9,13 +9,12 @@ namespace Yikilmadim.Controllers
 {
     public class LoginController : Controller
     {
-        [AllowAnonymous]
+
         public IActionResult Index()
         {
             return View();
         }
         [HttpPost]
-        [AllowAnonymous]
         public async Task<IActionResult> Index(Writer p)
         {
             Context c = new Context();
