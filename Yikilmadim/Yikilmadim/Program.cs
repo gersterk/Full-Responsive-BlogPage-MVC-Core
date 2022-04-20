@@ -1,15 +1,17 @@
 
 
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+
 
 void ConfigureServices(IServiceCollection services)
 {
+    services.AddControllersWithViews();
     services.AddSession();
 
     services.AddMvc(config =>
@@ -21,7 +23,14 @@ void ConfigureServices(IServiceCollection services)
 
     });
 
-    
+    services.AddMvc();
+    services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+        .AddCookie(x =>
+        {
+            x.LoginPath = "/Login/Index";
+        });
+
+
 }
 
 var app = builder.Build();
@@ -42,6 +51,8 @@ app.UseStaticFiles();
 app.UseSession();
 
 app.UseRouting();
+app.UseAuthentication();
+
 
 app.UseAuthorization();
 

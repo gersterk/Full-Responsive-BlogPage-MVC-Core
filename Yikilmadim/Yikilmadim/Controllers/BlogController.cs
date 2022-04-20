@@ -1,9 +1,11 @@
 ﻿using BusinessLayer.Concrete;
 using DataAccesLayer.EntityFramework;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Yikilmadim.Controllers
-{
+{   
+    [AllowAnonymous]
     public class BlogController : Controller
     {
         BlogManager bm = new BlogManager(new EFBlogRepository());
