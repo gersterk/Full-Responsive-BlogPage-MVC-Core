@@ -10,6 +10,8 @@ builder.Services.AddControllersWithViews();
 
 void ConfigureServices(IServiceCollection services)
 {
+    services.AddSession();
+
     services.AddMvc(config =>
     {
         var policy = new AuthorizationPolicyBuilder()
@@ -36,6 +38,8 @@ app.UseStatusCodePagesWithReExecute("/ErrorPage/Error1","?code ={0}");
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.UseSession();
 
 app.UseRouting();
 
